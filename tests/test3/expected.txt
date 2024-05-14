@@ -1,0 +1,12 @@
+Field - Pipe12: Sikeres hozzaadas
+Field - Drain1: Sikeres eltavolitas
+Player - Mechanic1: Sikeres mozgas
+
+Game: 0 pont a szabotoroknek
+Pipe - Pipe12: Kifolyt viz
+Pipe - Pipe12: Sikeres rongalas
+Mechanic - Mechanic1: Sikeres lepes
+
+Pipe - Pipe12: Sikeres javitas
+Mechanic - Mechanic1: Sikeres lepes
+

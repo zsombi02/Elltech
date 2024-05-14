@@ -1,0 +1,8 @@
+Field - Pipe1: Sikeres hozzaadas
+Field - Source1: Sikeres eltavolitas
+Player - Saboteur1: Sikeres mozgas
+
+Field - Pump1: Sikeres hozzaadas
+Pipe - Pipe1: Sikeres eltavolitas
+Player - Saboteur1: Sikeres mozgas
+

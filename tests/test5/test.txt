@@ -1,0 +1,8 @@
+debug on
+pickUpPipe Mechanic1
+move Mechanic1 Pipe12
+move Mechanic1 Pump5
+move Mechanic1 Pipe10
+move Mechanic1 Pump6
+connectPipe Mechanic1 Pipe14
+setPumpDirection Mechanic1 Pipe10 Pipe14

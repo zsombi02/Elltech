@@ -1,0 +1,8 @@
+Field - Pump6: Sikeres hozzaadas
+Pipe - Pipe8: Sikeres eltavolitas
+Player - Saboteur1: Sikeres mozgas
+
+Pipe - Pipe13: Foglalt cso
+Pipe - Pipe13, Pump6: Nem lehetseges a mozgatas
+Player - Saboteur1: Sikertelen mozgas
+

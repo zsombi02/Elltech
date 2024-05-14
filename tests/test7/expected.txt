@@ -1,0 +1,19 @@
+Field - Pipe4: Sikeres hozzaadas
+Field - Pump6: Sikeres eltavolitas
+Player - Mechanic2: Sikeres mozgas
+
+Pipe - Pipe4: Sikeres ragadossa tetel
+Mechanic - Mechanic2: Sikeres lepes
+
+Field - Pump6: Sikeres hozzaadas
+Pipe - Pipe4: Sikeres eltavolitas
+Player - Mechanic2: Sikeres mozgas
+
+Field - Pipe4: Sikeres hozzaadas
+Field - Source2: Sikeres eltavolitas
+Player - Saboteur2: Sikeres mozgas
+
+Pipe - Pipe4: Ragasztos cso
+Field - Source2, Pipe4: Nem lehetseges a mozgatas
+Player - Saboteur2: Sikertelen mozgas
+

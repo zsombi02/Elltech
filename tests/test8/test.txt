@@ -1,0 +1,8 @@
+debug off
+move Mechanic2 Pipe13
+move Mechanic2 Pump6
+debug on
+move Saboteur2 Pipe4
+makeSlippy Saboteur2
+move Saboteur2 Source2
+move Mechanic2 Pipe4

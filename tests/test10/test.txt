@@ -1,0 +1,14 @@
+debug off
+move Mechanic1 Pipe12
+move Mechanic1 Pump5
+step
+step
+step
+step
+step
+debug on
+step
+step
+disconnectPipe Mechanic1 Pipe7
+step
+step

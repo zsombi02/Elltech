@@ -1,0 +1,28 @@
+Pipe - Pipe14: Sikeres felkapcsolas
+Active - Drain1: Sikeres felkapcsolas
+Drain - Drain1: Sikeres cso felvetel
+Mechanic - Mechanic1: Sikeres lepes
+
+Field - Pipe12: Sikeres hozzaadas
+Field - Drain1: Sikeres eltavolitas
+Player - Mechanic1: Sikeres mozgas
+
+Field - Pump5: Sikeres hozzaadas
+Pipe - Pipe12: Sikeres eltavolitas
+Player - Mechanic1: Sikeres mozgas
+
+Field - Pipe10: Sikeres hozzaadas
+Field - Pump5: Sikeres eltavolitas
+Player - Mechanic1: Sikeres mozgas
+
+Field - Pump6: Sikeres hozzaadas
+Pipe - Pipe10: Sikeres eltavolitas
+Player - Mechanic1: Sikeres mozgas
+
+Pipe - Pipe14: Sikeres felkapcsolas
+Active - Pump6: Sikeres felkapcsolas
+Mechanic - Mechanic1: Sikeres lepes
+
+Pump - Pump6: Sikeres beallitas
+Mechanic - Mechanic1: Sikeres lepes
+

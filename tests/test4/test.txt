@@ -1,0 +1,8 @@
+debug off
+move Mechanic1 Pipe12
+debug on
+move Mechanic1 Pump5
+disconnectPipe Mechanic1 Pipe10
+move Mechanic1 Pipe6
+move Mechanic1 Pump1
+connectPipe Mechanic1 Pipe10

@@ -1,0 +1,21 @@
+Drain - Drain1: Sikeres pumpa felvetel
+Mechanic - Mechanic1: Sikeres lepes
+
+Field - Pipe12: Sikeres hozzaadas
+Field - Drain1: Sikeres eltavolitas
+Player - Mechanic1: Sikeres mozgas
+
+Pipe - Pipe12: Mar meg van javitva
+Active - Pump5: Sikeres csere
+Pipe - Pipe14: Sikeres felkapcsolas
+Pipe - Pipe12: Sikeres felkapcsolas
+Active - Pump7: Sikeres felkapcsolas
+Pipe - Pipe14: Sikeres felkapcsolas
+Active - Pump7: Sikeres felkapcsolas
+Pipe - Pipe12: Sikeres pumpa lehelyezes
+Field - Pump7: Sikeres hozzaadas
+Pipe - Pipe12: Sikeres eltavolitas
+Player - Mechanic1: Sikeres mozgas
+
+Mechanic - Mechanic1: Sikeres lepes
+

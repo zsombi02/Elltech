@@ -1,0 +1,4 @@
+debug on
+move Mechanic1 Pipe12
+damage Mechanic1
+repair Mechanic1

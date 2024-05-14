@@ -1,0 +1,10 @@
+debug off
+move Saboteur1 Pipe2
+move Saboteur1 Pump2
+move Saboteur1 Pipe8
+move Saboteur2 Pipe4
+move Saboteur2 Pump6
+move Mechanic2 Pipe13
+debug on
+move Saboteur1 Pump6
+move Saboteur1 Pipe13

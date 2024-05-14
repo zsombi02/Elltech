@@ -1,0 +1,4 @@
+debug on
+pickUpPump Mechanic1
+move Mechanic1 Pipe12
+placePump Mechanic1 Pump7

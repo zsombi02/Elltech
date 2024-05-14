@@ -1,0 +1,224 @@
+Field - Pipe3: Sikeres hozzaadas
+Field - Pump5: Sikeres eltavolitas
+Player - Saboteur2: Sikeres mozgas
+
+Game: 0 pont a szabotoroknek
+Pipe - Pipe3: Kifolyt viz
+Pipe - Pipe3: Sikeres rongalas
+Saboteur - Saboteur2: Sikeres lepes
+
+Field - Pump5: Sikeres hozzaadas
+Pipe - Pipe3: Sikeres eltavolitas
+Player - Saboteur2: Sikeres mozgas
+
+Pipe - Pipe1: 5 viz atveve, vizszint: 15
+Pipe - Pipe2: 0 viz atveve, vizszint: 15
+Source - Source1: Az osszes kapcsolt cso feltoltve
+
+Game: 15 pont a szabotoroknek
+Pipe - Pipe3: Kifolyt viz
+Pipe - Pipe3: 15 viz atveve, vizszint: 0
+Pipe - Pipe4: 0 viz atveve, vizszint: 15
+Source - Source2: Az osszes kapcsolt cso feltoltve
+
+Pipe - Pipe6: 0 viz atveve, vizszint: 15
+Pump - Pump1: Sikeres nyomas
+Pipe - Pipe1: 0 viz atadva, vizszint: 15
+Pump - Pump1: Sikeres szivas
+
+Pipe - Pipe8: 0 viz atveve, vizszint: 0
+Pump - Pump2: Sikeres nyomas
+Pipe - Pipe5: 0 viz atadva, vizszint: 0
+Pump - Pump2: Sikeres szivas
+
+Pipe - Pipe5: 0 viz atveve, vizszint: 0
+Pump - Pump3: Sikeres nyomas
+Pipe - Pipe9: 0 viz atadva, vizszint: 0
+Pump - Pump3: Sikeres szivas
+
+Pipe - Pipe11: 0 viz atveve, vizszint: 0
+Pump - Pump4: Sikeres nyomas
+Pipe - Pipe7: 0 viz atadva, vizszint: 0
+Pump - Pump4: Sikeres szivas
+
+Pipe - Pipe12: 15 viz atveve, vizszint: 15
+Pump - Pump5: Sikeres nyomas
+Pipe - Pipe3: 0 viz atadva, vizszint: 0
+Pump - Pump5: Sikeres szivas
+
+Pipe - Pipe9: 0 viz atveve, vizszint: 0
+Pump - Pump6: Sikeres nyomas
+Pipe - Pipe8: 0 viz atadva, vizszint: 0
+Pump - Pump6: Sikeres szivas
+
+Pipe - Pipe12: 15 viz atadva, vizszint: 0
+Game: 15 pont a szereloknek
+Drain - Drain1: Az osszes kapcsolt cso leszivva
+
+Pipe - Pipe11: 0 viz atadva, vizszint: 0
+Game: 0 pont a szereloknek
+Pipe - Pipe13: 0 viz atadva, vizszint: 0
+Game: 0 pont a szereloknek
+Drain - Drain2: Az osszes kapcsolt cso leszivva
+
+
+Pipe - Pipe1: 0 viz atveve, vizszint: 15
+Pipe - Pipe2: 0 viz atveve, vizszint: 15
+Source - Source1: Az osszes kapcsolt cso feltoltve
+
+Game: 15 pont a szabotoroknek
+Pipe - Pipe3: Kifolyt viz
+Pipe - Pipe3: 15 viz atveve, vizszint: 0
+Pipe - Pipe4: 0 viz atveve, vizszint: 15
+Source - Source2: Az osszes kapcsolt cso feltoltve
+
+Pipe - Pipe6: 0 viz atveve, vizszint: 15
+Pump - Pump1: Sikeres nyomas
+Pipe - Pipe1: 0 viz atadva, vizszint: 15
+Pump - Pump1: Sikeres szivas
+
+Pipe - Pipe8: 0 viz atveve, vizszint: 0
+Pump - Pump2: Sikeres nyomas
+Pipe - Pipe5: 0 viz atadva, vizszint: 0
+Pump - Pump2: Sikeres szivas
+
+Pipe - Pipe5: 0 viz atveve, vizszint: 0
+Pump - Pump3: Sikeres nyomas
+Pipe - Pipe9: 0 viz atadva, vizszint: 0
+Pump - Pump3: Sikeres szivas
+
+Pipe - Pipe11: 0 viz atveve, vizszint: 0
+Pump - Pump4: Sikeres nyomas
+Pipe - Pipe7: 0 viz atadva, vizszint: 0
+Pump - Pump4: Sikeres szivas
+
+Pipe - Pipe12: 0 viz atveve, vizszint: 0
+Pump - Pump5: Sikeres nyomas
+Pipe - Pipe3: 0 viz atadva, vizszint: 0
+Pump - Pump5: Sikeres szivas
+
+Pipe - Pipe9: 0 viz atveve, vizszint: 0
+Pump - Pump6: Sikeres nyomas
+Pipe - Pipe8: 0 viz atadva, vizszint: 0
+Pump - Pump6: Sikeres szivas
+
+Pipe - Pipe12: 0 viz atadva, vizszint: 0
+Game: 0 pont a szereloknek
+Drain - Drain1: Az osszes kapcsolt cso leszivva
+
+Pipe - Pipe11: 0 viz atadva, vizszint: 0
+Game: 0 pont a szereloknek
+Pipe - Pipe13: 0 viz atadva, vizszint: 0
+Game: 0 pont a szereloknek
+Drain - Drain2: Az osszes kapcsolt cso leszivva
+
+
+Field - Pipe12: Sikeres hozzaadas
+Field - Drain1: Sikeres eltavolitas
+Player - Mechanic1: Sikeres mozgas
+
+Pipe - Pipe12: Mar meg van javitva
+Mechanic - Mechanic1: Sikertelen lepes
+
+Pipe - Pipe1: 0 viz atveve, vizszint: 15
+Pipe - Pipe2: 0 viz atveve, vizszint: 15
+Source - Source1: Az osszes kapcsolt cso feltoltve
+
+Game: 15 pont a szabotoroknek
+Pipe - Pipe3: Kifolyt viz
+Pipe - Pipe3: 15 viz atveve, vizszint: 0
+Pipe - Pipe4: 0 viz atveve, vizszint: 15
+Source - Source2: Az osszes kapcsolt cso feltoltve
+
+Pipe - Pipe6: 0 viz atveve, vizszint: 15
+Pump - Pump1: Sikeres nyomas
+Pipe - Pipe1: 0 viz atadva, vizszint: 15
+Pump - Pump1: Sikeres szivas
+
+Pipe - Pipe8: 0 viz atveve, vizszint: 0
+Pump - Pump2: Sikeres nyomas
+Pipe - Pipe5: 0 viz atadva, vizszint: 0
+Pump - Pump2: Sikeres szivas
+
+Pipe - Pipe5: 0 viz atveve, vizszint: 0
+Pump - Pump3: Sikeres nyomas
+Pipe - Pipe9: 0 viz atadva, vizszint: 0
+Pump - Pump3: Sikeres szivas
+
+Pipe - Pipe11: 0 viz atveve, vizszint: 0
+Pump - Pump4: Sikeres nyomas
+Pipe - Pipe7: 0 viz atadva, vizszint: 0
+Pump - Pump4: Sikeres szivas
+
+Pipe - Pipe12: 0 viz atveve, vizszint: 0
+Pump - Pump5: Sikeres nyomas
+Pipe - Pipe3: 0 viz atadva, vizszint: 0
+Pump - Pump5: Sikeres szivas
+
+Pipe - Pipe9: 0 viz atveve, vizszint: 0
+Pump - Pump6: Sikeres nyomas
+Pipe - Pipe8: 0 viz atadva, vizszint: 0
+Pump - Pump6: Sikeres szivas
+
+Pipe - Pipe12: 0 viz atadva, vizszint: 0
+Game: 0 pont a szereloknek
+Drain - Drain1: Az osszes kapcsolt cso leszivva
+
+Pipe - Pipe11: 0 viz atadva, vizszint: 0
+Game: 0 pont a szereloknek
+Pipe - Pipe13: 0 viz atadva, vizszint: 0
+Game: 0 pont a szereloknek
+Drain - Drain2: Az osszes kapcsolt cso leszivva
+
+
+Pipe - Pipe1: 0 viz atveve, vizszint: 15
+Pipe - Pipe2: 0 viz atveve, vizszint: 15
+Source - Source1: Az osszes kapcsolt cso feltoltve
+
+Game: 15 pont a szabotoroknek
+Pipe - Pipe3: Kifolyt viz
+Pipe - Pipe3: 15 viz atveve, vizszint: 0
+Pipe - Pipe4: 0 viz atveve, vizszint: 15
+Source - Source2: Az osszes kapcsolt cso feltoltve
+
+Pipe - Pipe6: 0 viz atveve, vizszint: 15
+Pump - Pump1: Sikeres nyomas
+Pipe - Pipe1: 0 viz atadva, vizszint: 15
+Pump - Pump1: Sikeres szivas
+
+Pipe - Pipe8: 0 viz atveve, vizszint: 0
+Pump - Pump2: Sikeres nyomas
+Pipe - Pipe5: 0 viz atadva, vizszint: 0
+Pump - Pump2: Sikeres szivas
+
+Pipe - Pipe5: 0 viz atveve, vizszint: 0
+Pump - Pump3: Sikeres nyomas
+Pipe - Pipe9: 0 viz atadva, vizszint: 0
+Pump - Pump3: Sikeres szivas
+
+Pipe - Pipe11: 0 viz atveve, vizszint: 0
+Pump - Pump4: Sikeres nyomas
+Pipe - Pipe7: 0 viz atadva, vizszint: 0
+Pump - Pump4: Sikeres szivas
+
+Pipe - Pipe12: 0 viz atveve, vizszint: 0
+Pump - Pump5: Sikeres nyomas
+Pipe - Pipe3: 0 viz atadva, vizszint: 0
+Pump - Pump5: Sikeres szivas
+
+Pipe - Pipe9: 0 viz atveve, vizszint: 0
+Pump - Pump6: Sikeres nyomas
+Pipe - Pipe8: 0 viz atadva, vizszint: 0
+Pump - Pump6: Sikeres szivas
+
+Pipe - Pipe12: 0 viz atadva, vizszint: 0
+Game: 0 pont a szereloknek
+Drain - Drain1: Az osszes kapcsolt cso leszivva
+
+Pipe - Pipe11: 0 viz atadva, vizszint: 0
+Game: 0 pont a szereloknek
+Pipe - Pipe13: 0 viz atadva, vizszint: 0
+Game: 0 pont a szereloknek
+Drain - Drain2: Az osszes kapcsolt cso leszivva
+
+

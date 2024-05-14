@@ -1,0 +1,22 @@
+Field - Pump5: Sikeres hozzaadas
+Pipe - Pipe12: Sikeres eltavolitas
+Player - Mechanic1: Sikeres mozgas
+
+Game: 0 pont a szabotoroknek
+Pipe - Pipe10: Kifolyt viz
+Pipe - Pipe10: Sikeres lekapcsolas
+Active - Pump5: Sikeres lekapcsolas
+Mechanic - Mechanic1: Sikeres lepes
+
+Field - Pipe6: Sikeres hozzaadas
+Field - Pump5: Sikeres eltavolitas
+Player - Mechanic1: Sikeres mozgas
+
+Field - Pump1: Sikeres hozzaadas
+Pipe - Pipe6: Sikeres eltavolitas
+Player - Mechanic1: Sikeres mozgas
+
+Pipe - Pipe10: Sikeres felkapcsolas
+Active - Pump1: Sikeres felkapcsolas
+Mechanic - Mechanic1: Sikeres lepes
+

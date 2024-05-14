@@ -1,0 +1,3 @@
+debug on
+move Saboteur1 Pipe1
+move Saboteur1 Pump1

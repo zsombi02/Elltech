@@ -1,0 +1,18 @@
+debug off
+move Saboteur2 Pipe3
+move Saboteur2 Pump5
+step
+step
+step
+step
+step
+debug on
+move Saboteur2 Pipe3
+damage Saboteur2
+move Saboteur2 Pump5
+step
+step
+move Mechanic1 Pipe12
+repair Mechanic1
+step
+step

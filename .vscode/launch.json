@@ -1,0 +1,115 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Graphic",
+            "request": "launch",
+            "mainClass": "Graphic",
+            "projectName": "sivatagi-vizhalozat_d9e51b96"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Graphic",
+            "request": "launch",
+            "mainClass": "Graphic",
+            "projectName": "sivatagi-vizhalozat_c0e7c62a"
+        },
+        {
+            "type": "java",
+            "name": "Proto - Game",
+            "request": "launch",
+            "mainClass": "Proto",
+            "projectName": "sivatagi-vizhalozat_c0e7c62a"
+        },
+        {
+            "type": "java",
+            "name": "Proto - 1 Test",
+            "request": "launch",
+            "mainClass": "Proto",
+            "projectName": "sivatagi-vizhalozat_c0e7c62a",
+            "args": "test1"
+        },
+        {
+            "type": "java",
+            "name": "Proto - 2 Test",
+            "request": "launch",
+            "mainClass": "Proto",
+            "projectName": "sivatagi-vizhalozat_c0e7c62a",
+            "args": "test2"
+        },
+        {
+            "type": "java",
+            "name": "Proto - 3 Test",
+            "request": "launch",
+            "mainClass": "Proto",
+            "projectName": "sivatagi-vizhalozat_c0e7c62a",
+            "args": "test3"
+        },
+        {
+            "type": "java",
+            "name": "Proto - 4 Test",
+            "request": "launch",
+            "mainClass": "Proto",
+            "projectName": "sivatagi-vizhalozat_c0e7c62a",
+            "args": "test4"
+        },
+        {
+            "type": "java",
+            "name": "Proto - 5 Test",
+            "request": "launch",
+            "mainClass": "Proto",
+            "projectName": "sivatagi-vizhalozat_c0e7c62a",
+            "args": "test5"
+        },
+        {
+            "type": "java",
+            "name": "Proto - 6 Test",
+            "request": "launch",
+            "mainClass": "Proto",
+            "projectName": "sivatagi-vizhalozat_c0e7c62a",
+            "args": "test6"
+        },
+        {
+            "type": "java",
+            "name": "Proto - 7 Test",
+            "request": "launch",
+            "mainClass": "Proto",
+            "projectName": "sivatagi-vizhalozat_c0e7c62a",
+            "args": "test7"
+        },
+        {
+            "type": "java",
+            "name": "Proto - 8 Test",
+            "request": "launch",
+            "mainClass": "Proto",
+            "projectName": "sivatagi-vizhalozat_c0e7c62a",
+            "args": "test8"
+        },
+        {
+            "type": "java",
+            "name": "Proto - 9 Test",
+            "request": "launch",
+            "mainClass": "Proto",
+            "projectName": "sivatagi-vizhalozat_c0e7c62a",
+            "args": "test9"
+        },
+        {
+            "type": "java",
+            "name": "Proto - 10 Test",
+            "request": "launch",
+            "mainClass": "Proto",
+            "projectName": "sivatagi-vizhalozat_c0e7c62a",
+            "args": "test10"
+        }
+    ]
+}
